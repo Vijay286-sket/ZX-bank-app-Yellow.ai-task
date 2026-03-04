@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # API Keys
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyCHV3H00vxRtQX0wHDTUuxe6TxaXMH8sQ0")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 
 # Model Configuration
 LLM_MODEL = "gemini-2.5-flash"
