@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2026-03-04T09:29:49.647833+00:00",
+    "session_id": "9f66d5c9-c3a4-4fec-8fc5-313d1ab13d0e",
+    "name": "I need to talk to a human agent",
+    "contact": "Jane Smith",
+    "trigger_query": "I need to talk to a human agent"
+  },
+  {
+    "timestamp": "2026-03-04T09:30:49.158259+00:00",
+    "session_id": "8690a108-2881-4aac-868d-f3ef452d2e06",
+    "name": "I need to talk to a human representative",
+    "contact": "John Doe",
+    "trigger_query": "I need to talk to a human representative"
+  },
+  {
+    "timestamp": "2026-03-04T09:32:40.516083+00:00",
+    "session_id": "32aa43c3-7c52-4e3b-87b8-964ba1d45735",
+    "name": "I need to talk to a human agent",
+    "contact": "Jane Smith",
+    "trigger_query": "I need to talk to a human agent"
+  },
+  {
+    "timestamp": "2026-03-04T09:34:13.571532+00:00",
+    "session_id": "75d9c561-cac5-45c2-b0ca-8c57e8989ab2",
+    "name": "I need to talk to a human agent",
+    "contact": "Jane Smith",
+    "trigger_query": "I need to talk to a human agent"
+  },
+  {
+    "timestamp": "2026-03-04T09:35:11.003018+00:00",
+    "session_id": "93b1c387-a39c-4ce0-8f93-3a0c492da4b5",
+    "name": "I need to talk to a human representative",
+    "contact": "John Doe",
+    "trigger_query": "I need to talk to a human representative"
+  },
+  {
+    "timestamp": "2026-03-04T09:36:25.673463+00:00",
+    "session_id": "c960ec2c-78e8-4606-8f89-94288d44fbf0",
+    "name": "I need to talk to a human representative",
+    "contact": "John Doe",
+    "trigger_query": "I need to talk to a human representative"
+  },
+  {
+    "timestamp": "2026-03-04T09:37:10.422316+00:00",
+    "session_id": "79bc5737-6644-42f5-b622-9e8c21071d98",
+    "name": "I need to talk to a human representative",
+    "contact": "John Doe",
+    "trigger_query": "I need to talk to a human representative"
+  },
+  {
+    "timestamp": "2026-03-04T09:37:29.128340+00:00",
+    "session_id": "87c37b6c-3ac9-42a9-a936-b68bb60fea44",
+    "name": "I need to talk to a human representative",
+    "contact": "John Doe",
+    "trigger_query": "I need to talk to a human representative"
+  },
+  {
+    "timestamp": "2026-03-04T09:37:55.053005+00:00",
+    "session_id": "9f4c3bb5-8b8d-4c19-8555-96b76213827a",
+    "name": "I need to talk to a human representative",
+    "contact": "John Doe",
+    "trigger_query": "I need to talk to a human representative"
+  },
+  {
+    "timestamp": "2026-03-04T09:40:12.958757+00:00",
+    "session_id": "c8b68f72-7259-472a-8a64-061f458312d9",
+    "name": "John Doe",
+    "contact": "+91-9876543210",
+    "trigger_query": "I need to talk to a human representative"
+  }
+]

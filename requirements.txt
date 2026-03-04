@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+rank_bm25
+scikit-learn
+google-genai
+python-frontmatter
+mistune
+numpy
+pandas
+python-dotenv
+httpx

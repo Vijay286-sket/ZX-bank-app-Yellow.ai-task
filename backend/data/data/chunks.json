@@ -1,0 +1,1298 @@
+[
+  {
+    "source": "01_overview.md",
+    "section": "About ZX Bank",
+    "text": "ZX Bank is a leading global financial institution committed to providing innovative and secure banking solutions. Founded in 1995, we have grown to serve over 10 million customers worldwide.",
+    "title": "ZX Bank Overview",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "global",
+      "institution",
+      "innovative",
+      "founded",
+      "1995"
+    ],
+    "chunk_id": 0
+  },
+  {
+    "source": "01_overview.md",
+    "section": "Our Mission",
+    "text": "To empower individuals and businesses by providing accessible, transparent, and efficient financial services that drive growth and prosperity.",
+    "title": "ZX Bank Overview",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "empower",
+      "individuals",
+      "businesses",
+      "accessible",
+      "transparent"
+    ],
+    "chunk_id": 1
+  },
+  {
+    "source": "01_overview.md",
+    "section": "Core Values",
+    "text": "- **Integrity**: We uphold the highest ethical standards.\n- **Innovation**: We constantly evolve to meet modern banking needs.\n- **Customer Centricity**: Your financial well-being is our priority.\n- **Security**: Protecting your assets and data is at the heart of everything we do.",
+    "title": "ZX Bank Overview",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "integrity",
+      "uphold",
+      "highest",
+      "ethical",
+      "standards"
+    ],
+    "chunk_id": 2
+  },
+  {
+    "source": "01_overview.md",
+    "section": "Key Offerings",
+    "text": "We provide a wide range of services including personal savings, business loans, mortgage solutions, and advanced digital banking tools.",
+    "title": "ZX Bank Overview",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "wide",
+      "range",
+      "digital",
+      "solutions",
+      "loans"
+    ],
+    "chunk_id": 3
+  },
+  {
+    "source": "02_app_features.md",
+    "section": "Mobile App Overview",
+    "text": "The ZX Bank Mobile App is your all-in-one financial companion, designed for speed, security, and ease of use. Available on both iOS and Android platforms.",
+    "title": "Digital Banking App Features",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "companion",
+      "speed",
+      "ease",
+      "ios",
+      "android"
+    ],
+    "chunk_id": 4
+  },
+  {
+    "source": "02_app_features.md",
+    "section": "Core Features",
+    "text": "### Real-time Account Monitoring\nView your balances, transaction history, and pending charges instantly from the dashboard.\n\n### Instant Fund Transfers\nTransfer money between your ZX Bank accounts or to other banks locally and internationally with just a few taps.\n\n### Bill Payments\nSchedule and pay utility bills, credit card statements, and other service providers directly from the app.",
+    "title": "Digital Banking App Features",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "view",
+      "pending",
+      "charges",
+      "dashboard",
+      "instant"
+    ],
+    "chunk_id": 5
+  },
+  {
+    "source": "02_app_features.md",
+    "section": "Security Features",
+    "text": "### Biometric Authentication\nUse FaceID or Fingerprint scanning for secure and fast login.\n\n### Card Controls\nLock or unlock your debit and credit cards instantly if they are misplaced.\n\n### Push Notifications\nReceive real-time alerts for every transaction, ensuring you are always informed of your account activity.",
+    "title": "Digital Banking App Features",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "biometric",
+      "faceid",
+      "fingerprint",
+      "scanning",
+      "login"
+    ],
+    "chunk_id": 6
+  },
+  {
+    "source": "03_mobile_check_deposit.md",
+    "section": "How to Deposit a Check",
+    "text": "Depositing a check is now easier than ever with the ZX Bank Mobile App. No need to visit a branch or ATM.",
+    "title": "Mobile Check Deposit",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "depositing",
+      "easier",
+      "visit",
+      "need",
+      "check"
+    ],
+    "chunk_id": 7
+  },
+  {
+    "source": "03_mobile_check_deposit.md",
+    "section": "Steps for Deposit",
+    "text": "1. **Endorse the Check**: Sign the back of your check and write \"For Mobile Deposit at ZX Bank Only\" below your signature.\n2. **Open the App**: Log in to your ZX Bank Mobile App.\n3. **Select Deposit**: Tap on the 'Deposit' icon at the bottom of the screen.\n4. **Enter Amount**: Type in the exact amount shown on the check.\n5. **Take Photos**: Capture clear images of both the front and back of the endorsed check against a dark, flat surface.\n6. **Confirm**: Review the details and submit the deposit.",
+    "title": "Mobile Check Deposit",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "check",
+      "deposit",
+      "mobile",
+      "app",
+      "endorse"
+    ],
+    "chunk_id": 8
+  },
+  {
+    "source": "03_mobile_check_deposit.md",
+    "section": "Important Guidelines",
+    "text": "- **Limits**: Daily and monthly limits apply based on your account type. Individual checks cannot exceed $5,000.\n- **Wait Time**: Standard hold periods apply. Funds are typically available within 1-2 business days.\n- **Keep the Check**: Retain the physical check for 10 days after the deposit is confirmed before securely destroying it.",
+    "title": "Mobile Check Deposit",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "limits",
+      "apply",
+      "check",
+      "days",
+      "individual"
+    ],
+    "chunk_id": 9
+  },
+  {
+    "source": "04_debit_card.md",
+    "section": "Managing Your ZX Debit Card",
+    "text": "Your ZX Bank Debit Card is the key to accessing your funds worldwide. We offer comprehensive tools to manage your card via the mobile app and online banking.",
+    "title": "Debit Card Management",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "card",
+      "key",
+      "comprehensive",
+      "worldwide",
+      "debit"
+    ],
+    "chunk_id": 10
+  },
+  {
+    "source": "04_debit_card.md",
+    "section": "Activation and PIN",
+    "text": "New cards must be activated before use. You can activate your card by:\n- Logging into the ZX Bank Mobile App and selecting 'Activate Card'.\n- Calling our automated activation line at 1-800-ZX-CARD.\n- Using any ZX Bank ATM and entering your initial PIN sent via mail.",
+    "title": "Debit Card Management",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "card",
+      "activate",
+      "zx",
+      "activated",
+      "logging"
+    ],
+    "chunk_id": 11
+  },
+  {
+    "source": "04_debit_card.md",
+    "section": "Security Features",
+    "text": "### Lock and Unlock\nIf you misplace your card, use the 'Lock Card' feature in the app to prevent unauthorized transactions. You can unlock it instantly once found.\n\n### Travel Notices\nPlanning a trip? Set a travel notice in the app to ensure your card works seamlessly in foreign countries and to prevent false fraud flags.",
+    "title": "Debit Card Management",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "card",
+      "unlock",
+      "lock",
+      "prevent",
+      "travel"
+    ],
+    "chunk_id": 12
+  },
+  {
+    "source": "04_debit_card.md",
+    "section": "Limits and Controls",
+    "text": "You can set daily spending limits and withdrawal limits directly from the app to help manage your budget and enhance security.",
+    "title": "Debit Card Management",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "limits",
+      "budget",
+      "spending",
+      "enhance",
+      "directly"
+    ],
+    "chunk_id": 13
+  },
+  {
+    "source": "05_credit_rewards.md",
+    "section": "Earn While You Spend",
+    "text": "The ZX Credit Card Rewards Program is designed to give back to our loyal customers. Every purchase brings you closer to exciting rewards.",
+    "title": "Credit Card Rewards Program",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "rewards",
+      "program",
+      "loyal",
+      "purchase",
+      "brings"
+    ],
+    "chunk_id": 14
+  },
+  {
+    "source": "05_credit_rewards.md",
+    "section": "Earning Points",
+    "text": "- **Groceries & Dining**: Earn 3x points for every $1 spent.\n- **Travel & Gas**: Earn 2x points for every $1 spent.\n- **Other Purchases**: Earn 1x point for every $1 spent.",
+    "title": "Credit Card Rewards Program",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "spent",
+      "earn",
+      "points",
+      "groceries",
+      "dining"
+    ],
+    "chunk_id": 15
+  },
+  {
+    "source": "05_credit_rewards.md",
+    "section": "Redemption Options",
+    "text": "### Cash Back\nEvery 1,000 points can be redeemed for $10 statement credit or direct deposit into your ZX savings account.\n\n### Travel\nUse your points to book flights, hotels, and car rentals through our ZX Travel Portal. Points have 25% more value when redeemed for travel.\n\n### Gift Cards\nRedeem points for gift cards from hundreds of popular retailers and restaurants.",
+    "title": "Credit Card Rewards Program",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "points",
+      "travel",
+      "redeemed",
+      "gift",
+      "cards"
+    ],
+    "chunk_id": 16
+  },
+  {
+    "source": "05_credit_rewards.md",
+    "section": "Expiration",
+    "text": "Points do not expire as long as your account remains open and in good standing. There is no cap on the number of points you can earn.",
+    "title": "Credit Card Rewards Program",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "points",
+      "expire",
+      "long",
+      "good",
+      "standing"
+    ],
+    "chunk_id": 17
+  },
+  {
+    "source": "06_atm_info.md",
+    "section": "Finding an ATM",
+    "text": "ZX Bank has a vast network of over 50,000 fee-free ATMs across the country through our partnership with the AllPoint network.",
+    "title": "ATM Locations & Fees",
+    "category": "locations",
+    "doc_type": "faq",
+    "keywords": [
+      "network",
+      "vast",
+      "atms",
+      "partnership",
+      "allpoint"
+    ],
+    "chunk_id": 18
+  },
+  {
+    "source": "06_atm_info.md",
+    "section": "Using ZX Bank ATMs",
+    "text": "Withdrawals, deposits, and balance inquiries at any ZX Bank branded ATM are always free of charge.",
+    "title": "ATM Locations & Fees",
+    "category": "locations",
+    "doc_type": "faq",
+    "keywords": [
+      "branded",
+      "free",
+      "deposits",
+      "balance",
+      "inquiries"
+    ],
+    "chunk_id": 19
+  },
+  {
+    "source": "06_atm_info.md",
+    "section": "Fees and Limits",
+    "text": "### Out-of-Network Fees\n- **Domestic**: A fee of $2.50 applies for each withdrawal at a non-ZX Bank or non-partner ATM.\n- **International**: A fee of $5.00 applies for international withdrawals, plus a 3% foreign transaction fee.\n\n### Withdrawal Limits\nThe standard daily ATM withdrawal limit is $1,000. This can be temporarily increased upon request through our customer support or via the app.",
+    "title": "ATM Locations & Fees",
+    "category": "locations",
+    "doc_type": "faq",
+    "keywords": [
+      "withdrawal",
+      "fee",
+      "applies",
+      "non",
+      "atm"
+    ],
+    "chunk_id": 20
+  },
+  {
+    "source": "06_atm_info.md",
+    "section": "Safety Tips",
+    "text": "- Always cover your PIN when entering it.\n- Be aware of your surroundings, especially at night.\n- If you notice any suspicious devices on an ATM, do not use it and report it immediately.",
+    "title": "ATM Locations & Fees",
+    "category": "locations",
+    "doc_type": "faq",
+    "keywords": [
+      "cover",
+      "aware",
+      "surroundings",
+      "especially",
+      "night"
+    ],
+    "chunk_id": 21
+  },
+  {
+    "source": "07_branch_info.md",
+    "section": "Visit a ZX Bank Branch",
+    "text": "Our branches are designed to provide you with personalized financial advice and specialized services.",
+    "title": "Branch Locations & Hours",
+    "category": "locations",
+    "doc_type": "reference",
+    "keywords": [
+      "personalized",
+      "advice",
+      "specialized",
+      "branches",
+      "designed"
+    ],
+    "chunk_id": 22
+  },
+  {
+    "source": "07_branch_info.md",
+    "section": "Branch Hours",
+    "text": "Standard operating hours for most ZX Bank branches are:\n- **Monday - Friday**: 9:00 AM to 5:00 PM\n- **Saturday**: 10:00 AM to 2:00 PM\n- **Sunday**: Closed\n\n*Note: Hours may vary by location. Please use the 'Find a Branch' tool on our website for specific details.*",
+    "title": "Branch Locations & Hours",
+    "category": "locations",
+    "doc_type": "reference",
+    "keywords": [
+      "00",
+      "pm",
+      "hours",
+      "friday",
+      "saturday"
+    ],
+    "chunk_id": 23
+  },
+  {
+    "source": "07_branch_info.md",
+    "section": "Services Available",
+    "text": "- **Personal Banking Consulting**: Meet with an advisor for account planning.\n- **Loan Applications**: Apply for personal, auto, or mortgage loans in person.\n- **Safe Deposit Boxes**: Securely store your valuables (available at select locations).\n- **Notary Services**: complimentary notary services for ZX Bank customers.",
+    "title": "Branch Locations & Hours",
+    "category": "locations",
+    "doc_type": "reference",
+    "keywords": [
+      "notary",
+      "personal",
+      "services",
+      "consulting",
+      "advisor"
+    ],
+    "chunk_id": 24
+  },
+  {
+    "source": "07_branch_info.md",
+    "section": "Scheduling an Appointment",
+    "text": "To avoid wait times, we recommend scheduling an appointment through our mobile app or website before your visit.",
+    "title": "Branch Locations & Hours",
+    "category": "locations",
+    "doc_type": "reference",
+    "keywords": [
+      "times",
+      "recommend",
+      "scheduling",
+      "appointment",
+      "wait"
+    ],
+    "chunk_id": 25
+  },
+  {
+    "source": "08_wire_transfers.md",
+    "section": "Sending a Wire Transfer",
+    "text": "Wire transfers are a fast and secure way to send large sums of money. ZX Bank supports both domestic and international wire transfers.",
+    "title": "Wire Transfer Procedures",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "transfers",
+      "wire",
+      "way",
+      "sums",
+      "supports"
+    ],
+    "chunk_id": 26
+  },
+  {
+    "source": "08_wire_transfers.md",
+    "section": "Domestic Wire Transfers",
+    "text": "To send a domestic wire, you will need:\n- Recipient's Full Name and Address\n- Recipient's Bank Name and Address\n- Recipient's Routing Number (9 digits)\n- Recipient's Account Number\n\n**Fees**: $25 per outgoing domestic wire.",
+    "title": "Wire Transfer Procedures",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "recipient",
+      "domestic",
+      "wire",
+      "address",
+      "number"
+    ],
+    "chunk_id": 27
+  },
+  {
+    "source": "08_wire_transfers.md",
+    "section": "Deadlines and Processing",
+    "text": "- **Same-Day Processing**: Wires submitted before 4:00 PM EST on business days are processed the same day.\n- **Arrival Time**: Funds typically arrive within 24 hours for domestic transfers.",
+    "title": "Wire Transfer Procedures",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "day",
+      "processing",
+      "submitted",
+      "processed",
+      "arrival"
+    ],
+    "chunk_id": 28
+  },
+  {
+    "source": "08_wire_transfers.md",
+    "section": "Security and Verification",
+    "text": "For your protection, wire transfers above $10,000 may require a verbal callback verification from our security team. Ensure your phone number on file is up to date.",
+    "title": "Wire Transfer Procedures",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "protection",
+      "require",
+      "verbal",
+      "callback",
+      "verification"
+    ],
+    "chunk_id": 29
+  },
+  {
+    "source": "09_international_transfers.md",
+    "section": "Sending Money Overseas",
+    "text": "ZX Bank provides reliable international wire transfer services to over 200 countries. We utilize the SWIFT network to ensuring your funds reach their destination safely.",
+    "title": "International Transfers",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "reliable",
+      "200",
+      "utilize",
+      "safely",
+      "countries"
+    ],
+    "chunk_id": 30
+  },
+  {
+    "source": "09_international_transfers.md",
+    "section": "Information Required for International Wires",
+    "text": "To send an international transfer, you will need the following details from the recipient:\n- Recipient's Full Legal Name\n- Recipient's Full Physical Address\n- Recipient's Bank Name and Branch Address\n- **SWIFT/BIC Code**: The unique identifier for the recipient's bank.\n- **IBAN/Account Number**: The recipient's bank account number, often in IBAN format for Europe and the Middle East.",
+    "title": "International Transfers",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "recipient",
+      "iban",
+      "address",
+      "number",
+      "bank"
+    ],
+    "chunk_id": 31
+  },
+  {
+    "source": "09_international_transfers.md",
+    "section": "Fees and Exchange Rates",
+    "text": "- **Outgoing Fee**: $45 per international wire.\n- **Exchange Rates**: Real-time exchange rates apply at the time of the transaction. A small conversion margin may be included.",
+    "title": "International Transfers",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "exchange",
+      "rates",
+      "time",
+      "small",
+      "conversion"
+    ],
+    "chunk_id": 32
+  },
+  {
+    "source": "09_international_transfers.md",
+    "section": "Delivery Times",
+    "text": "International wires typically take between 2 to 5 business days to reach the recipient, depending on the destination country and any intermediary banks involved.",
+    "title": "International Transfers",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "depending",
+      "intermediary",
+      "involved",
+      "banks",
+      "wires"
+    ],
+    "chunk_id": 33
+  },
+  {
+    "source": "09_international_transfers.md",
+    "section": "Tracking",
+    "text": "Once initiated, you will receive a reference number that can be used to track the status of your transfer through our international support desk.",
+    "title": "International Transfers",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "initiated",
+      "reference",
+      "used",
+      "track",
+      "status"
+    ],
+    "chunk_id": 34
+  },
+  {
+    "source": "10_account_requirements.md",
+    "section": "Start Your Journey with ZX Bank",
+    "text": "Opening an account with ZX Bank is a straightforward process that can be completed online or in person at any of our branches.",
+    "title": "Account Opening Requirements",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "straightforward",
+      "completed",
+      "opening",
+      "branches",
+      "person"
+    ],
+    "chunk_id": 35
+  },
+  {
+    "source": "10_account_requirements.md",
+    "section": "Eligibility",
+    "text": "- Must be at least 18 years old (Minors can open custodial accounts).\n- Must have a valid Social Security Number (SSN) or Taxpayer Identification Number (TIN).\n- Must be a legal resident of a country where ZX Bank operates.",
+    "title": "Account Opening Requirements",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "number",
+      "18",
+      "old",
+      "minors",
+      "custodial"
+    ],
+    "chunk_id": 36
+  },
+  {
+    "source": "10_account_requirements.md",
+    "section": "Required Documents",
+    "text": "- **Primary Identification**: A valid government-issued photo ID (e.g., Driver's License, Passport, State ID).\n- **Secondary Identification**: One additional form of ID (e.g., Social Security card, birth certificate, credit card from another bank).\n- **Proof of Address**: A utility bill, lease agreement, or bank statement dated within the last 60 days.",
+    "title": "Account Opening Requirements",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "id",
+      "identification",
+      "card",
+      "primary",
+      "driver"
+    ],
+    "chunk_id": 37
+  },
+  {
+    "source": "10_account_requirements.md",
+    "section": "Initial Deposit",
+    "text": "A minimum initial deposit is required to open most accounts.\n- **Basic Checking**: $25\n- **Standard Savings**: $50\n- **Premium Accounts**: $1,000",
+    "title": "Account Opening Requirements",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "accounts",
+      "basic",
+      "checking",
+      "premium",
+      "initial"
+    ],
+    "chunk_id": 38
+  },
+  {
+    "source": "10_account_requirements.md",
+    "section": "Online Application",
+    "text": "If applying online, you will need to scan and upload copies of the required documents and complete an electronic signature process.",
+    "title": "Account Opening Requirements",
+    "category": "procedures",
+    "doc_type": "procedure",
+    "keywords": [
+      "applying",
+      "scan",
+      "upload",
+      "copies",
+      "electronic"
+    ],
+    "chunk_id": 39
+  },
+  {
+    "source": "11_kyc_verification.md",
+    "section": "Understanding KYC",
+    "text": "Know Your Customer (KYC) is a mandatory process for all financial institutions to verify the identity of their clients. This helps us prevent fraud, money laundering, and other illegal activities.",
+    "title": "KYC & Identity Verification",
+    "category": "security",
+    "doc_type": "policy",
+    "keywords": [
+      "mandatory",
+      "institutions",
+      "clients",
+      "helps",
+      "laundering"
+    ],
+    "chunk_id": 40
+  },
+  {
+    "source": "11_kyc_verification.md",
+    "section": "Our Verification Process",
+    "text": "When you open an account or request specific services, we perform a series of checks to confirm your identity.\n\n### Identity Checks\nWe verify your government-issued ID against official records. In some cases, we may use facial recognition technology to match your selfie with your ID photo.\n\n### Address Verification\nWe confirm your residential address through third-party databases or by reviewing your provided proof of address documents.\n\n### Background Screening\nWe check public records and sanction lists to ensure compliance with international financial regulations.",
+    "title": "KYC & Identity Verification",
+    "category": "security",
+    "doc_type": "policy",
+    "keywords": [
+      "address",
+      "confirm",
+      "checks",
+      "id",
+      "identity"
+    ],
+    "chunk_id": 41
+  },
+  {
+    "source": "11_kyc_verification.md",
+    "section": "Why It Matters",
+    "text": "KYC protects both the bank and our customers. By ensuring we know who our customers are, we can provide a safer banking environment for everyone.",
+    "title": "KYC & Identity Verification",
+    "category": "security",
+    "doc_type": "policy",
+    "keywords": [
+      "customers",
+      "protects",
+      "safer",
+      "environment",
+      "know"
+    ],
+    "chunk_id": 42
+  },
+  {
+    "source": "11_kyc_verification.md",
+    "section": "Updates to Information",
+    "text": "You are required to notify ZX Bank of any significant changes to your personal information, such as a change of address or legal name, to keep your records up to date and compliant.",
+    "title": "KYC & Identity Verification",
+    "category": "security",
+    "doc_type": "policy",
+    "keywords": [
+      "notify",
+      "compliant",
+      "records",
+      "significant",
+      "changes"
+    ],
+    "chunk_id": 43
+  },
+  {
+    "source": "12_loan_process.md",
+    "section": "Applying for a Personal or Auto Loan",
+    "text": "ZX Bank offers competitive rates and flexible terms for all your lending needs. Our application process is designed to be quick and efficient.",
+    "title": "Loan Application Process",
+    "category": "services",
+    "doc_type": "procedure",
+    "keywords": [
+      "lending",
+      "efficient",
+      "needs",
+      "competitive",
+      "flexible"
+    ],
+    "chunk_id": 44
+  },
+  {
+    "source": "12_loan_process.md",
+    "section": "Steps to Apply",
+    "text": "1. **Pre-qualification**: Check your potential rates without affecting your credit score on our website.\n2. **Submit Application**: Complete the full application form online or in a branch.\n3. **Documentation**: Provide proof of income (pay stubs, tax returns) and employment verification.\n4. **Review**: Our underwriters will review your credit history, income, and debt-to-income ratio.\n5. **Approval and Funding**: If approved, sign the loan agreement electronically. Funds are often deposited into your ZX account within 24 hours.",
+    "title": "Loan Application Process",
+    "category": "services",
+    "doc_type": "procedure",
+    "keywords": [
+      "income",
+      "review",
+      "application",
+      "credit",
+      "qualification"
+    ],
+    "chunk_id": 45
+  },
+  {
+    "source": "12_loan_process.md",
+    "section": "Common Requirements",
+    "text": "- Minimum credit score of 620.\n- Stable employment history for at least 2 years.\n- Debt-to-income ratio below 40%.",
+    "title": "Loan Application Process",
+    "category": "services",
+    "doc_type": "procedure",
+    "keywords": [
+      "620",
+      "stable",
+      "40",
+      "score",
+      "income"
+    ],
+    "chunk_id": 46
+  },
+  {
+    "source": "12_loan_process.md",
+    "section": "Repayment Options",
+    "text": "We offer various repayment methods, including automatic monthly payments which may qualify you for an interest rate discount of 0.25%.",
+    "title": "Loan Application Process",
+    "category": "services",
+    "doc_type": "procedure",
+    "keywords": [
+      "various",
+      "repayment",
+      "methods",
+      "automatic",
+      "qualify"
+    ],
+    "chunk_id": 47
+  },
+  {
+    "source": "13_mortgage_products.md",
+    "section": "Home Financing Options",
+    "text": "ZX Bank offers a variety of mortgage products to help you achieve the dream of homeownership.",
+    "title": "Mortgage Products",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "variety",
+      "products",
+      "achieve",
+      "homeownership",
+      "dream"
+    ],
+    "chunk_id": 48
+  },
+  {
+    "source": "13_mortgage_products.md",
+    "section": "Our Mortgage Types",
+    "text": "### Fixed-Rate Mortgages\nYour interest rate and monthly principal and interest payments remain the same for the life of the loan. Available in 15, 20, and 30-year terms.\n\n### Adjustable-Rate Mortgages (ARM)\nTypically start with a lower interest rate for an initial period (e.g., 5, 7, or 10 years), after which the rate adjusts periodically based on market conditions.\n\n### First-Time Homebuyer Programs\nSpecial programs with lower down payment requirements (as low as 3%) and flexible credit guidelines for those buying their first home.",
+    "title": "Mortgage Products",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "rate",
+      "mortgages",
+      "lower",
+      "programs",
+      "life"
+    ],
+    "chunk_id": 49
+  },
+  {
+    "source": "13_mortgage_products.md",
+    "section": "The Mortgage Process",
+    "text": "1. **Pre-approval**: Get a clear idea of how much you can borrow.\n2. **House Hunting**: Find your dream home with confidence.\n3. **Formal Application**: Provide detailed financial information and property details.\n4. **Appraisal and Inspection**: Ensure the property value and condition are acceptable.\n5. **Closing**: Sign the final documents and get the keys to your new home.",
+    "title": "Mortgage Products",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "property",
+      "home",
+      "idea",
+      "borrow",
+      "house"
+    ],
+    "chunk_id": 50
+  },
+  {
+    "source": "13_mortgage_products.md",
+    "section": "Expert Guidance",
+    "text": "Our mortgage specialists are available to guide you through every step of the process and help you choose the best product for your financial situation.",
+    "title": "Mortgage Products",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "specialists",
+      "guide",
+      "step",
+      "best",
+      "product"
+    ],
+    "chunk_id": 51
+  },
+  {
+    "source": "14_savings_rates.md",
+    "section": "Grow Your Savings",
+    "text": "At ZX Bank, we offer competitive interest rates to help your money work harder for you. Our rates are reviewed monthly to ensure they remain industry-leading.",
+    "title": "Savings Account Interest Rates",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "rates",
+      "work",
+      "harder",
+      "reviewed",
+      "leading"
+    ],
+    "chunk_id": 52
+  },
+  {
+    "source": "14_savings_rates.md",
+    "section": "Our Savings Products",
+    "text": "### Basic Savings\n- **Annual Percentage Yield (APY)**: 0.50%\n- **Minimum Balance to Earn APY**: $1\n- **Monthly Fee**: None if balance stays above $100\n\n### High-Yield Savings\n- **APY**: 4.25%\n- **Minimum Balance to Earn APY**: $1,000\n- **Monthly Fee**: None if balance stays above $2,500\n\n### Premium Money Market\n- **APY**: up to 4.50% (Tiered based on balance)\n- **Minimum Balance to Earn APY**: $25,000\n- **Monthly Fee**: None if balance stays above $10,000",
+    "title": "Savings Account Interest Rates",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "balance",
+      "apy",
+      "stays",
+      "earn",
+      "fee"
+    ],
+    "chunk_id": 53
+  },
+  {
+    "source": "14_savings_rates.md",
+    "section": "How Interest is Calculated",
+    "text": "Interest is compounded daily and credited to your account on the last business day of each month.",
+    "title": "Savings Account Interest Rates",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "compounded",
+      "credited",
+      "month",
+      "day",
+      "daily"
+    ],
+    "chunk_id": 54
+  },
+  {
+    "source": "14_savings_rates.md",
+    "section": "Rate Fluctuations",
+    "text": "Interest rates are subject to change based on market conditions and Federal Reserve adjustments. Any significant changes will be communicated via your monthly statement.",
+    "title": "Savings Account Interest Rates",
+    "category": "services",
+    "doc_type": "reference",
+    "keywords": [
+      "subject",
+      "federal",
+      "reserve",
+      "adjustments",
+      "communicated"
+    ],
+    "chunk_id": 55
+  },
+  {
+    "source": "15_fixed_deposits.md",
+    "section": "Secure Your Future with Fixed Deposits",
+    "text": "Fixed Deposits (FD), also known as Certificates of Deposit (CD), offer a guaranteed rate of return for a set period.",
+    "title": "Fixed Deposit Terms",
+    "category": "services",
+    "doc_type": "policy",
+    "keywords": [
+      "known",
+      "certificates",
+      "cd",
+      "guaranteed",
+      "return"
+    ],
+    "chunk_id": 56
+  },
+  {
+    "source": "15_fixed_deposits.md",
+    "section": "Available Terms",
+    "text": "We offer FD terms ranging from 6 months to 5 years:\n- **6 Months**: 4.75% APY\n- **12 Months**: 5.10% APY\n- **24 Months**: 4.85% APY\n- **36 Months**: 4.60% APY\n- **60 Months**: 4.50% APY",
+    "title": "Fixed Deposit Terms",
+    "category": "services",
+    "doc_type": "policy",
+    "keywords": [
+      "months",
+      "apy",
+      "60",
+      "ranging",
+      "75"
+    ],
+    "chunk_id": 57
+  },
+  {
+    "source": "15_fixed_deposits.md",
+    "section": "Key Terms and Conditions",
+    "text": "### Minimum Deposit\nThe minimum opening deposit for a ZX Fixed Deposit is $1,000.\n\n### Early Withdrawal Penalty\nWithdrawing funds before the maturity date will result in a penalty:\n- **Terms < 1 year**: 90 days of simple interest.\n- **Terms >= 1 year**: 180 days of simple interest.\n\n### Maturity Options\nUpon maturity, you can:\n1. Reinvest the principal and interest for the same term at current rates.\n2. Withdraw the full amount (principal plus interest).\n3. Transfer the funds to your ZX savings or checking account.\n\n*If no action is taken within 10 days of maturity, the FD will automatically renew for the same term.*",
+    "title": "Fixed Deposit Terms",
+    "category": "services",
+    "doc_type": "policy",
+    "keywords": [
+      "maturity",
+      "deposit",
+      "days",
+      "penalty",
+      "simple"
+    ],
+    "chunk_id": 58
+  },
+  {
+    "source": "16_fraud_detection.md",
+    "section": "Protecting Your Finances",
+    "text": "ZX Bank uses advanced AI-driven monitoring systems to detect suspicious activity 24/7. Your security is our top priority.",
+    "title": "Fraud Detection & Reporting",
+    "category": "security",
+    "doc_type": "procedure",
+    "keywords": [
+      "uses",
+      "ai",
+      "driven",
+      "systems",
+      "detect"
+    ],
+    "chunk_id": 59
+  },
+  {
+    "source": "16_fraud_detection.md",
+    "section": "How We Detect Fraud",
+    "text": "- **Unusual Spending Patterns**: Sudden large purchases or transactions in unusual locations.\n- **Multiple Failed Logins**: Repeated unsuccessful attempts to access your account.\n- **Phishing Detection**: Identifying and blocking malicious links and fraudulent communication attempts.",
+    "title": "Fraud Detection & Reporting",
+    "category": "security",
+    "doc_type": "procedure",
+    "keywords": [
+      "unusual",
+      "attempts",
+      "patterns",
+      "sudden",
+      "failed"
+    ],
+    "chunk_id": 60
+  },
+  {
+    "source": "16_fraud_detection.md",
+    "section": "What to Do If You Suspect Fraud",
+    "text": "If you notice unauthorized transactions or believe your account security has been compromised:\n1. **Lock Your Card**: Immediately use the 'Lock Card' feature in the ZX Mobile App.\n2. **Report the Activity**: Call our dedicated Fraud Hotline at 1-888-ZX-FRAUD (available 24/7).\n3. **Change Your Password**: Update your online banking password and 2FA settings immediately.",
+    "title": "Fraud Detection & Reporting",
+    "category": "security",
+    "doc_type": "procedure",
+    "keywords": [
+      "immediately",
+      "lock",
+      "password",
+      "fraud",
+      "card"
+    ],
+    "chunk_id": 61
+  },
+  {
+    "source": "16_fraud_detection.md",
+    "section": "Our Fraud Guarantee",
+    "text": "ZX Bank offers $0 Liability for unauthorized transactions reported within 60 days of the statement date. We will investigate and credit your account for valid fraud claims.",
+    "title": "Fraud Detection & Reporting",
+    "category": "security",
+    "doc_type": "procedure",
+    "keywords": [
+      "liability",
+      "reported",
+      "investigate",
+      "claims",
+      "valid"
+    ],
+    "chunk_id": 62
+  },
+  {
+    "source": "16_fraud_detection.md",
+    "section": "Proactive Security Tips",
+    "text": "- Never share your PIN or 2FA codes with anyone, including bank employees.\n- Monitor your account activity regularly via the mobile app.\n- Enable real-time transaction alerts.",
+    "title": "Fraud Detection & Reporting",
+    "category": "security",
+    "doc_type": "procedure",
+    "keywords": [
+      "employees",
+      "monitor",
+      "regularly",
+      "codes",
+      "enable"
+    ],
+    "chunk_id": 63
+  },
+  {
+    "source": "17_dispute_resolution.md",
+    "section": "Disputing a Transaction",
+    "text": "If you see a charge on your statement that you don't recognize or disagree with (e.g., incorrect amount, duplicate charge, or services not rendered), you have the right to dispute it.",
+    "title": "Dispute Resolution Process",
+    "category": "support",
+    "doc_type": "procedure",
+    "keywords": [
+      "charge",
+      "don",
+      "recognize",
+      "disagree",
+      "incorrect"
+    ],
+    "chunk_id": 64
+  },
+  {
+    "source": "17_dispute_resolution.md",
+    "section": "How to Initiate a Dispute",
+    "text": "1. **Gather Documentation**: Collect receipts, invoices, or any correspondence with the merchant.\n2. **Contact the Merchant First**: Most issues can be resolved faster by dealing directly with the merchant.\n3. **Submit a Dispute to ZX Bank**: If the merchant cannot resolve the issue, you can file a formal dispute via:\n   - **Mobile App**: Select the transaction and tap 'Dispute Transaction'.\n   - **Online Banking**: Go to 'Account Services' and select 'Dispute Center'.\n   - **Phone**: Call our Dispute Resolution team at 1-800-ZX-DISPUTE.",
+    "title": "Dispute Resolution Process",
+    "category": "support",
+    "doc_type": "procedure",
+    "keywords": [
+      "dispute",
+      "merchant",
+      "select",
+      "transaction",
+      "gather"
+    ],
+    "chunk_id": 65
+  },
+  {
+    "source": "17_dispute_resolution.md",
+    "section": "Timeline for Resolution",
+    "text": "- **Initial Review**: We will acknowledge your dispute within 2 business days.\n- **Investigation**: We typically resolve disputes within 10 to 45 days.\n- **Provisional Credit**: In many cases, we will provide a provisional credit to your account while the investigation is ongoing.",
+    "title": "Dispute Resolution Process",
+    "category": "support",
+    "doc_type": "procedure",
+    "keywords": [
+      "investigation",
+      "provisional",
+      "days",
+      "credit",
+      "acknowledge"
+    ],
+    "chunk_id": 66
+  },
+  {
+    "source": "17_dispute_resolution.md",
+    "section": "Possible Outcomes",
+    "text": "- **Resolved in Your Favor**: The credit becomes permanent.\n- **Resolved in Favor of the Merchant**: The provisional credit is reversed, and the original charge remains.",
+    "title": "Dispute Resolution Process",
+    "category": "support",
+    "doc_type": "procedure",
+    "keywords": [
+      "favor",
+      "resolved",
+      "credit",
+      "permanent",
+      "reversed"
+    ],
+    "chunk_id": 67
+  },
+  {
+    "source": "18_security_2fa.md",
+    "section": "Strengthening Your Account Security",
+    "text": "Your account security is a shared responsibility. ZX Bank provides robust tools to help you protect your financial data.",
+    "title": "Account Security & 2FA",
+    "category": "security",
+    "doc_type": "procedure",
+    "keywords": [
+      "shared",
+      "responsibility",
+      "robust",
+      "provides",
+      "protect"
+    ],
+    "chunk_id": 68
+  },
+  {
+    "source": "18_security_2fa.md",
+    "section": "Two-Factor Authentication (2FA)",
+    "text": "2FA adds an extra layer of security by requiring two forms of identification to access your account.\n### How to Enable 2FA\n1. Log in to the ZX Bank Mobile App.\n2. Go to 'Settings' > 'Security Center'.\n3. Select 'Two-Factor Authentication'.\n4. Choose your preferred method:\n   - **SMS Code**: A one-time code sent to your registered mobile number.\n   - **Authenticator App**: Use apps like Google Authenticator or Authy for time-based codes.\n   - **ZX Secure Token**: A push notification sent to your trusted mobile device.",
+    "title": "Account Security & 2FA",
+    "category": "security",
+    "doc_type": "procedure",
+    "keywords": [
+      "authenticator",
+      "sent",
+      "code",
+      "mobile",
+      "2fa"
+    ],
+    "chunk_id": 69
+  },
+  {
+    "source": "18_security_2fa.md",
+    "section": "Strong Password Guidelines",
+    "text": "- Use a mix of uppercase and lowercase letters, numbers, and symbols.\n- Avoid using easily guessable information like birthdays or common words.\n- Use a unique password for each of your online accounts.",
+    "title": "Account Security & 2FA",
+    "category": "security",
+    "doc_type": "procedure",
+    "keywords": [
+      "use",
+      "mix",
+      "uppercase",
+      "lowercase",
+      "letters"
+    ],
+    "chunk_id": 70
+  },
+  {
+    "source": "18_security_2fa.md",
+    "section": "Security Alerts",
+    "text": "Sign up for security alerts to be notified about:\n- Password changes\n- Logins from new devices\n- Large withdrawals or transfers\n- Changes to your contact information",
+    "title": "Account Security & 2FA",
+    "category": "security",
+    "doc_type": "procedure",
+    "keywords": [
+      "changes",
+      "notified",
+      "devices",
+      "logins",
+      "contact"
+    ],
+    "chunk_id": 71
+  },
+  {
+    "source": "19_support_channels.md",
+    "section": "We Are Here to Help",
+    "text": "ZX Bank offers multiple ways to get in touch with our customer support team. Choose the method that is most convenient for you.",
+    "title": "Customer Support Channels",
+    "category": "support",
+    "doc_type": "reference",
+    "keywords": [
+      "ways",
+      "touch",
+      "convenient",
+      "multiple",
+      "method"
+    ],
+    "chunk_id": 72
+  },
+  {
+    "source": "19_support_channels.md",
+    "section": "Support Options",
+    "text": "### 24/7 Phone Support\nCall us anytime at 1-800-ZX-BANK-0 for general inquiries, account assistance, or technical support.\n\n### Secure Messaging\nLog in to the ZX Bank Mobile App or Online Banking and use our Secure Message Center to send a message to a representative. We typically respond within 1-2 hours.\n\n### Live Chat\nAvailable on our website and in the app from 8:00 AM to 10:00 PM EST, Monday through Sunday. Look for the chat icon in the bottom right corner.\n\n### Branch Network\nVisit any ZX Bank branch during operating hours for in-person assistance.\n\n### Social Media\nFollow us on Twitter and Facebook @ZXBankSupport for quick updates and general questions. For security reasons, never share account details over social media.",
+    "title": "Customer Support Channels",
+    "category": "support",
+    "doc_type": "reference",
+    "keywords": [
+      "general",
+      "assistance",
+      "message",
+      "chat",
+      "media"
+    ],
+    "chunk_id": 73
+  },
+  {
+    "source": "19_support_channels.md",
+    "section": "Escalations",
+    "text": "If your issue is not resolved to your satisfaction, you can request to speak with a supervisor or file a formal complaint through our Quality Assurance department.",
+    "title": "Customer Support Channels",
+    "category": "support",
+    "doc_type": "reference",
+    "keywords": [
+      "satisfaction",
+      "speak",
+      "supervisor",
+      "complaint",
+      "quality"
+    ],
+    "chunk_id": 74
+  },
+  {
+    "source": "20_privacy_policy.md",
+    "section": "Your Privacy is Important",
+    "text": "At ZX Bank, we are committed to protecting the personal and financial information of our customers. This policy outlines how we collect, use, and safeguard your data.",
+    "title": "ZX Bank Privacy Policy",
+    "category": "security",
+    "doc_type": "policy",
+    "keywords": [
+      "policy",
+      "outlines",
+      "safeguard",
+      "committed",
+      "protecting"
+    ],
+    "chunk_id": 75
+  },
+  {
+    "source": "20_privacy_policy.md",
+    "section": "Information We Collect",
+    "text": "- **Personal Information**: Name, address, SSN, date of birth.\n- **Financial Information**: Transaction history, account balances, credit scores.\n- **Usage Data**: Information about how you interact with our website and mobile app.",
+    "title": "ZX Bank Privacy Policy",
+    "category": "security",
+    "doc_type": "policy",
+    "keywords": [
+      "information",
+      "scores",
+      "usage",
+      "interact",
+      "balances"
+    ],
+    "chunk_id": 76
+  },
+  {
+    "source": "20_privacy_policy.md",
+    "section": "How We Use Your Information",
+    "text": "- To provide and manage your banking services.\n- To process transactions and send related communications.\n- To comply with legal and regulatory requirements.\n- To prevent fraud and enhance security.\n- To personalize your experience and improve our offerings.",
+    "title": "ZX Bank Privacy Policy",
+    "category": "security",
+    "doc_type": "policy",
+    "keywords": [
+      "related",
+      "comply",
+      "personalize",
+      "experience",
+      "improve"
+    ],
+    "chunk_id": 77
+  },
+  {
+    "source": "20_privacy_policy.md",
+    "section": "Sharing Your Information",
+    "text": "We do not sell your personal information to third parties. We may share information with:\n- Service providers who help us operate our business.\n- Regulatory authorities as required by law.\n- Credit bureaus for credit reporting purposes.",
+    "title": "ZX Bank Privacy Policy",
+    "category": "security",
+    "doc_type": "policy",
+    "keywords": [
+      "information",
+      "credit",
+      "sell",
+      "parties",
+      "operate"
+    ],
+    "chunk_id": 78
+  },
+  {
+    "source": "20_privacy_policy.md",
+    "section": "Your Choices",
+    "text": "You have certain rights regarding your data, including:\n- Opting out of marketing communications.\n- Reviewing and updating your personal information.\n- Accessing your data and requesting corrections.",
+    "title": "ZX Bank Privacy Policy",
+    "category": "security",
+    "doc_type": "policy",
+    "keywords": [
+      "data",
+      "certain",
+      "rights",
+      "regarding",
+      "opting"
+    ],
+    "chunk_id": 79
+  },
+  {
+    "source": "20_privacy_policy.md",
+    "section": "Data Security",
+    "text": "We use industry-standard encryption and security protocols to protect your data from unauthorized access or disclosure.",
+    "title": "ZX Bank Privacy Policy",
+    "category": "security",
+    "doc_type": "policy",
+    "keywords": [
+      "encryption",
+      "protocols",
+      "disclosure",
+      "industry",
+      "protect"
+    ],
+    "chunk_id": 80
+  }
+]
