@@ -57,6 +57,11 @@ cp .env.example .env
 # Then edit .env and set GEMINI_API_KEY=your_actual_key
 # Get your free API key at https://aistudio.google.com/
 
+# (Optional) Download dataset docs, build indices, and evaluate retrieval
+# python download_docs.py
+# python -c "from ingest import build_index; build_index()"
+# python evaluate_retrieval.py
+
 # Run the Server
 uvicorn main:app --reload
 ```
@@ -275,7 +280,9 @@ zxbank-assistant/
 │   ├── escalation.py      # Human escalation state machine
 │   ├── logger.py          # Structured terminal logging
 │   ├── session.py         # In-memory multi-turn session state
-│   ├── docs/              # 20 ZX Bank markdown documents
+│   ├── download_docs.py   # Script to download markdown dataset from GitHub
+│   ├── evaluate_retrieval.py # Script to evaluate RAG on test queries
+│   ├── docs/              # 40 ZX Bank markdown documents
 │   ├── data/              # Automatically generated indices & DBs
 │   └── .env.example       # Environment variable template
 ├── frontend/              # Next.js web application
